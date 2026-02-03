@@ -3,9 +3,6 @@
 </p>
 
 
-
-
-
 # 👋 Hi, I'm Ali Arshad  
 
 <p align="center">
