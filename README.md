@@ -11,7 +11,7 @@
 # 👋 Hi, I'm Ali Arshad  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Software+Developer;MERN+Stack+Engineer;AI+Agents+%7C+Automation+%7C+SaaS+Builder;iOS+%26+Cross-Platform+App+Developer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;MERN+Stack+Engineer;AI+Agents+%7C+Automation+%7C+SaaS+Builder;iOS+%26+Cross-Platform+App+Developer;Open+Source+Contributor" />
 </p>
 
 ---
