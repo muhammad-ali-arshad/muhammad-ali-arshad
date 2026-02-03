@@ -1,16 +1,99 @@
-## Hi, I am Ali 👋
+<p align="center">
+  <img
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem8xZXhiZTNpdDJmaTV5NG94a3Fwd3o1N3dzaGVpdzdtbDl4bTQ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0G0FVwzZ4Cw6WYGS2j/giphy.gif"
+    width="100%"
+    height="190"
+    alt="Coding GIF"
+  />
+</p>
 
-<!--
-**muhammad-ali-arshad/muhammad-ali-arshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ali Arshad  
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Software+Developer;MERN+Stack+Engineer;AI+Agents+%7C+Automation+%7C+SaaS+Builder;iOS+%26+Cross-Platform+App+Developer;Open+Source+Contributor" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I’m a **Full Stack Software Engineer** with **1+ years of experience**, specializing in **MERN applications**, **AI-powered systems**, and **mobile apps**.
+
+- 💻 Build **scalable MERN apps** with clean architecture  
+- 🤖 Develop **AI agents**, LLM-powered tools, and automation workflows  
+- 📱 Create **iOS (Swift)** and **cross-platform apps** using React Native & Expo  
+- ⚡ Focused on **performance, DX, and real-world problem solving**  
+- 🌍 Open-source contributor & lifelong learner  
+
+---
+
+## 🧠 What I Build
+
+- AI-powered SaaS platforms  
+- LLM-based agents & automation tools  
+- Full-stack web applications (B2B & B2C)  
+- Mobile apps (iOS & cross-platform)  
+- Internal tools & APIs  
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+`React.js` · `Next.js` · `React Native` · `Expo` · `Tailwind CSS` · `HTML` · `CSS`
+
+### Backend
+`Node.js` · `Express.js` · `FastAPI` · `REST APIs` · `GraphQL`
+
+### Mobile
+`React Native`
+
+### Databases
+`MongoDB` · `PostgreSQL` · `SQLite` · `Firebase` · `Vercel`
+
+### AI & Automation
+`Python` · `LLMs` · `LangChain` · `AI Agents` · `n8n`
+
+### DevOps & Tools
+`Git` · `GitHub Actions` · `Docker` · `CI/CD` · `Postman` · `Vercel` · `Azure`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=majid-x&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majid-x&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=majid-x&theme=react-dark" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=majid-x&theme=onedark&row=1&column=7" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter" />
+  </a>
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
+</p>
+
+---
+
+⭐️ Built with passion by **Ali Arshad**
