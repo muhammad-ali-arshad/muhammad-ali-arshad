@@ -1,11 +1,12 @@
 <p align="center">
   <img
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem8xZXhiZTNpdDJmaTV5NG94a3Fwd3o1N3dzaGVpdzdtbDl4bTQ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0G0FVwzZ4Cw6WYGS2j/giphy.gif"
+    src="https://i.giphy.com/0G0FVwzZ4Cw6WYGS2j.gif"
     width="100%"
     height="190"
     alt="Coding GIF"
   />
 </p>
+
 
 # 👋 Hi, I'm Ali Arshad  
 
@@ -59,24 +60,9 @@ I’m a **Full Stack Software Engineer** with **1+ years of experience**, specia
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=majid-x&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majid-x&theme=radical" height="160"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=majid-x&theme=react-dark" />
-</p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=majid-x&theme=onedark&row=1&column=7" />
-</p>
 
 ---
 
@@ -86,10 +72,8 @@ I’m a **Full Stack Software Engineer** with **1+ years of experience**, specia
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter" />
-  </a>
-  <a href="mailto:yourmail@example.com">
+
+  <a href="mailto:muhammad_ali_arshad@outlook.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
   </a>
 </p>
