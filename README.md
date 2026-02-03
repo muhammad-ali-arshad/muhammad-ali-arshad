@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/hero.gif" width="900" alt="Coding Banner" height="600" />
+  <img src="assets/hero.gif" width="400" height="267" alt="Coding Banner" />
 </p>
+
 
 
 # 👋 Hi, I'm Ali Arshad  
