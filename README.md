@@ -1,10 +1,10 @@
-<p align="center">
+ <p align="center">
   <img
-    src="https://i.giphy.com/0G0FVwzZ4Cw6WYGS2j.gif"
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem8xZXhiZTNpdDJmaTV5NG94a3Fwd3o1N3dzaGVpdzdtbDl4bTQ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0G0FVwzZ4Cw6WYGS2j/giphy.gif"
     width="100%"
     height="190"
-    alt="Coding GIF"
-  />
+    alt="GIF"
+  >
 </p>
 
 
