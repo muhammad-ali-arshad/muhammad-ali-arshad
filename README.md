@@ -1,9 +1,11 @@
 <p align="center">
   <img
-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem8xZXhiZTNpdDJmaTV5NG94a3Fwd3o1N3dzaGVpdzdtbDl4bTQ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0G0FVwzZ4Cw6WYGS2j/giphy.gif"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm8zeGh3Nzd1bndhaDlweWIzcWdoZHdsMGs2dmptYzk0bHRhbXBlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/keWdgl62zjk5Qg0wSe/giphy.gif"
+    width="800"
     alt="GIF"
   />
 </p>
+
 
 
 
